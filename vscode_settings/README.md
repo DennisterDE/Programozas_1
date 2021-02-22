@@ -1,6 +1,20 @@
 Visual Studio Code beállítások
 ==============================
 
+Két változat is fel lett téve:
+
+* `01_C_alap/` mappa, ez az egyszerű változat
+* `02_2021_febr/` mappa, ez a jelenlegi beállításaimat tartalmazza
+
+Én inkább a `01_C_alap/` mappát javasolnám, az ottani
+beállítások direkt a C nyelvhez lettek igazítva. Ha már
+alaposan megismertük a VS Code használatát, akkor meg lehet
+majd nézni a másik mappa tartalmát is, s onnan is lehet majd
+ötleteket venni.
+
+Tehát azt javaslom, hogy a `01_C_alap/User/` mappa tartalmával
+foglalkozzunk.
+
 A `User/` mappában a következő bejegyzések lényegesek:
 
 * `settings.json` file
